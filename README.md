@@ -1,2 +1,2 @@
 # First app on Kotlin
-# Android app Tetris
+Android app Tetris
